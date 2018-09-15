@@ -2,8 +2,6 @@
 
 **Stripe Central** is an app using the [Stripe API](https://stripe.com/docs/api).
 
-Time spent: **10** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:

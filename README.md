@@ -2,27 +2,18 @@
 
 **Stripe Central** is an app using the [Stripe API](https://stripe.com/docs/api).
 
-## User Stories
+## Roadmap
 
-The following **required** functionality is completed:
-
-- [x] User has two tabs, one for Checkout, and one for Charges.
-- [x] User can see the currently active tab.
-- [x] User can create a charge for a desired amount on the Checkout tab.
-- [x] User sees an error message when there is a card processing error.
-- [x] User can see past charges on the Charges tab.
-
-The following **optional** features are implemented:
-
-- [x] User can specify currency as part of the charges.
 - [ ] Clicking on a table header should sort the entries by that element.
-- [x] User can refund charges from the charges tab. 
-- [x] Graph of charges over time.
 - [x] Third tab for disputes. 
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Graph of charges over time.
+- [x] User can refund charges from the charges tab. 
+- [x] User can specify currency as part of the charges.
+- [x] User can see past charges on the Charges tab.
+- [x] User sees an error message when there is a card processing error.
+- [x] User can create a charge for a desired amount on the Checkout tab.
+- [x] User can see the currently active tab.
+- [x] User has two tabs, one for Checkout, and one for Charges.
 
 ## Video Walkthrough
 
